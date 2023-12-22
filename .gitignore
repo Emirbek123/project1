@@ -4,3 +4,5 @@ __pychache__/
 venv/
 
 *.env
+config.py
+loc_bot.log
